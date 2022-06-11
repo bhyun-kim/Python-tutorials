@@ -32,7 +32,7 @@
 
 ### Class
 
-### Exc
+### Exception
 
 ### Useful Materials 
 [1] https://www.w3schools.com/python/
