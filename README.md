@@ -42,6 +42,6 @@
 - [integers](url) 
 - float
 - complex
-- [How to check type of a number('https://www.w3schools.com/python/python_numbers.asp#:~:text=print(c)-,print(type(a)),-print(type')
+- [How to check type of a number](https://www.w3schools.com/python/python_numbers.asp#:~:text=c)%0A%0Aprint(-,type,-(a))%0Aprint)
 
 
