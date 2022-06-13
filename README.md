@@ -38,6 +38,10 @@
 - PyPI
   - [Include non-.py files](https://stackoverflow.com/questions/23252344/how-do-i-include-non-py-files-in-pypi) 
 
+### ETC
+- [Check if any file exists in a given directory](https://stackoverflow.com/questions/33463325/python-check-if-any-file-exists-in-a-given-directory)
+
+
 ### Useful Materials 
 [1] https://www.w3schools.com/python/
 
