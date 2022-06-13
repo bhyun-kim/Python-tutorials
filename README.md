@@ -34,6 +34,10 @@
 
 ### Exception
 
+### Packaging Python File 
+- PyPI
+  - [Include non-.py files](https://stackoverflow.com/questions/23252344/how-do-i-include-non-py-files-in-pypi) 
+
 ### Useful Materials 
 [1] https://www.w3schools.com/python/
 
